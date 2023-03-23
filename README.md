@@ -1,4 +1,4 @@
-# Ethereum Contract Test
+# Ethereum Test Contract
 
 This is a brief test for an Ethereum Smart Contract.
 
